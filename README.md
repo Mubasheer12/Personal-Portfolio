@@ -15,7 +15,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 
 ## Features
 - About Me: An overview of my background, skills, and experiences.
-- Achievements: A collection of my notable projects with descriptions, screenshots, and links.
+- Achievements: A collection of my notable achievements with descriptions, screenshots, and links.
 - Skills: A list of my technical skills and proficiencies.
 - Resume: A link to download my resume.
 - Contact: A form to send me messages.
@@ -31,8 +31,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Mubasheer12/personal-portfolio.git`
-2. Navigate to the project directory: `cd personal-portfolio`
+1. Clone the repository: `git clone https://github.com/Mubasheer12/Personal-Portfolio.git`
+2. Navigate to the project directory: `cd Personal-Portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
