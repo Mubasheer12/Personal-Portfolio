@@ -29,7 +29,7 @@ export const skills = [
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg",
       },
       {
-        name: "Tenserflow",
+        name: "Tensorflow",
         image: "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
       },
       {
