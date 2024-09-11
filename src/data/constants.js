@@ -53,7 +53,7 @@ export const skills = [
         image: "https://github.com/Azra-007/portfolio/raw/main/Images/images.png",
       },
       {
-        name: "Sk Learn Kit",
+        name: "Scikit learn",
         image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
       },
     ],
