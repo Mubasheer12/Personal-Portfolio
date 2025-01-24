@@ -252,7 +252,7 @@ export const education = [
     school: "GITAM University, Bengaluru",
     date: "Dec 2021 - May 2025",
     grade: "Grade: 8.77 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering specialization in Data Science at Gandhi Institute of Technology and Management University, Bengaluru. I have completed 6 semesters and have a CGPA of 8.68. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering specialization in Data Science at Gandhi Institute of Technology and Management University, Bengaluru. I have completed 7 semesters and have a CGPA of 8.77. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering specialization in Data Science - CSEDS",
   },
   {
