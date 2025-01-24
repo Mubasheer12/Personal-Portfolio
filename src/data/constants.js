@@ -251,7 +251,7 @@ export const education = [
     img: "https://github.com/Azra-007/portfolio/raw/main/Images/Screenshot_2024-09-04-19-24-31-28_6012fa4d4ddec268fc5c7112cbb265e7.jpg",
     school: "GITAM University, Bengaluru",
     date: "Dec 2021 - May 2025",
-    grade: "Grade: 8.68 CGPA",
+    grade: "Grade: 8.77 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering specialization in Data Science at Gandhi Institute of Technology and Management University, Bengaluru. I have completed 6 semesters and have a CGPA of 8.68. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering specialization in Data Science - CSEDS",
   },
