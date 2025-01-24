@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I am driven by a strong passion for learning and innovation, consistently embracing challenges that push me to excel and grow. My focus is on identifying efficient solutions and creating impactful projects that contribute meaningfully to their respective fields. With a commitment to continuous improvement, I actively seek opportunities to expand my knowledge and skill set, always striving to achieve the highest standards in my work.",
   github: "https://github.com/Mubasheer12",
-  resume: "https://drive.google.com/file/d/1gO_9ZUNAaEp9A_6g3ppIZG87IjZDkum1/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1HiBnzT-3fHI8N8wsd-nxk0LupjKGk56d/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mdmubasheerazam/",
   email: "https://mubasheer12.github.io/Contact-Page/",
 };
